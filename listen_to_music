@@ -1,0 +1,15 @@
+
+
+(1) SACD (Super Audio CD) (*.iso file) to mp3
+(2) SACD (*.dsf file) to mp3
+
+Steps
+1. Install foobar
+2. Install foobar components: foo_input_sacd-1.5.1.zip (foo_dsd_processor.fb2k-component and foo_input_sacd.fb2k-component)
+3. Install lame.exe command line (lame3.99.5.zip)
+4. foobar: File => open => select your SACD iso (or dsf) file
+5. right-click tracks you want to convert => Convert => Quick convert
+6. select your installed lame.exe file
+7. Select mp3 format => Press "Convert" button
+8. done
+
